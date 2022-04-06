@@ -1,0 +1,6 @@
+1 nolu sipariş far 2 adet 2000 TL ankara
+2 nolu sipariş paspas 4 adet 400 TL ankara
+3 nolu sipariş jant 4 adet 1900 TL toyan
+4 nolu sipariş lastik 4 adet 1500 TL efe 
+5 nolu sipariş buji 5 adet 120 TL ankara 
+6 nolu sipariş silecek 2 adet 50 TL çorum 
